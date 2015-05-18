@@ -19,16 +19,7 @@ public void Create_and_Hide_file() throws InterruptedException
 
         		try {
  /*
-			String content = "Dear Mum,\n" +
-"How are you? I hope you are fairing on nicely and everything is alright. I am fine, just struggling with Homa (a cold). Here in Nairobi, it is chilling. Kuna baridi nyingi. On Thursday (10-07-2014), it was so cold that it was drizzling. Na haikuwa mvua – ni baridi tu.\n" +
-"Yesterday(13-07-2014), I managed to go to Kamulu. I got there like at 0830 hrs. Njuki was sick kidogo. He also had Homa kali. However, hiyo homa ndio inaisha. All in all, kila kitu kiko sambamba huko. Those guys are working very hard. I went to the shamba and I saw they had tilled and prepared the shamba for planting. Especially, the area where there was a pit, opposite the greenhouse. I also saw that the pawpaw seedlings have grown tall. I saw them last week and so I was surprised to see tall seedlings. They have grown overnight.\n" +
-"My attachment is going on well. Every day I am exposed to something new. This makes me happy. These days I leave the house before 0600 hrs and I get home at around 0700 hrs. I am happy with how things are going, although I get tired. Many at times, I get to the home, eat, and chat a little and then head to bed at 2100 hrs. \n" +
-"Our church (PCEA Umoja) are building a big building which they intend to call “IMANI Towers”. We did the ground-breaking today. The English service was fixed together with the Kiswahili service. They say the building will cost about Ksh. 52 Million. The site of the building is just in the compound – next to the Multipurpose Hall. The contractor says that the building should be ready in 52 weeks, meaning that next year a time like now it should be complete.\n" +
-"I met up with Maina wa akina Mama Nyaguthii (Kamulu) while coming from church. He was also from church in Tena. He told me to say hallo to everyone.\n" +
-"I have never found time to go to Umoja Wendani Sacco to sign the Title deed. On weekdays, I am held up. They do not operate during the weekend. However, I shall try my best to find time and attend to those matters.\n" +
-"Allow me to end this letter. Pass my regards to all and I wish you an awesome time. God bless you.\n" +
-"Your Son,\n" +
-"Wachira Mureithi";
+			String content = "Hello World";
                         
 			//File file = new File("./filename.txt");
  
